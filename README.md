@@ -5,4 +5,4 @@ Editado por David Vicente Izcue
 
 .
 
-A partir de este punto del documento las actualizaciones irán dirigidas a la rama "unida"
+Este documento contendrá la parte 2 de un ejercicio imaginario, realizado por Mario Rivas Martín, la parte 1 habrá sido realizada por mi compañero.
