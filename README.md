@@ -5,4 +5,4 @@ Editado por David Vicente Izcue
 
 .
 
-A partir de este punto del documento las actualizaciones irán dirigidas a la rama "unida"
+Esta es una rama independiente
