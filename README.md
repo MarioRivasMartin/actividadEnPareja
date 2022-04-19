@@ -6,5 +6,5 @@ Editado por David Vicente Izcue
 .
 
 En esta parte trabaja David
-=======
+
 
